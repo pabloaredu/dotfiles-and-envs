@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/pabloarellano/dev/review/utils'
+let g:netrw_dirhist_5='/Users/pabloarellano/dev/review'
+let g:netrw_dirhist_4='/Users/pabloarellano/dev/review/utils'
+let g:netrw_dirhist_3='/Users/pabloarellano/dev/review'
+let g:netrw_dirhist_2='/Users/pabloarellano/dev/review/utils'
+let g:netrw_dirhist_1='/Users/pabloarellano/dev/review'
+let g:netrw_dirhist_0='/Users/pabloarellano/dev/review/utils'
+let g:netrw_dirhist_9='/Users/pabloarellano/dev/review'
+let g:netrw_dirhist_8='/Users/pabloarellano/dev/review/utils'
+let g:netrw_dirhist_7='/Users/pabloarellano/dev/review'
